@@ -1,5 +1,7 @@
 # django-bootstrap v5
 
+**NB:** this project is not actively maintained at the moment. However, there is an alternative, which is quite up to date. See here: https://github.com/zostera/django-bootstrap5
+
 This package builds on top of the excellent [django-bootstrap4](https://github.com/zostera/django-bootstrap4) package.
 
 [![CI](https://github.com/zelenij/django-bootstrap-v5/workflows/CI/badge.svg?branch=main)](https://github.com/django-bootstrap-v5/actions?workflow=CI)
