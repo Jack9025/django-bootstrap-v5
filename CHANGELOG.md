@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.12] - Update dependencies 2024-01-31
+
+- Allow no upper limit on Django version
+- Drop support for Python 3.6 and 3.7 in the CI
+- Add support for Python 3.9, 3.10, 3.11, 3.12
+- Drop support for unmaintained Django versions in the CI
+- Update to the latest Bootstrap 5.3.2 URLs
+
 ## [1.0.11] - Update dependencies 2022-02-10
 
 - Update to the latest Bootstrap 5.1.3 URLs
